@@ -1,0 +1,48 @@
+#p1{
+    border: 4px dotted black;
+    border-left: 4px solid red;
+    border-right: 4px solid red;
+}
+
+.d1 {
+    border: 2px solid black;
+    width: 220px;
+    height: 190px;
+    border-radius: 20px;
+    padding: 15px;
+
+}
+#d2{
+    background-color:orange;
+    height: 180px;
+
+}
+#d3{
+    
+    border: 1px solid;
+    width: 600px;
+    height:80px;
+    border-radius: 0px;
+
+    
+
+    
+
+}
+h2{
+    text-align: center;
+    text-transform: uppercase;
+    color: green;
+
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-image: url("./image5.jpg");
+    background-repeat:no-repeat;
+    background-position: top right;
+    background-attachment: fixed;
+    
+    
+}
